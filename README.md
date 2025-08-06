@@ -1,4 +1,4 @@
-# 😂 Random Joke Generator – Fun for Devs & Normies 😎
+# 😂 Random Joke Generator – Fun for Devs & Normies😎
 
 A playful web app that fetches and displays random jokes from various categories like **Programming**, **General**, and **Knock-Knock** using the [Official Joke API](https://official-joke-api.appspot.com/).
 
